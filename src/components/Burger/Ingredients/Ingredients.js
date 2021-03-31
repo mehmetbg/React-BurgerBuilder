@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import classes from './ingredients.css';
+import classes from './Ingredients.css';
 import PropTypes from 'prop-types';
 
 class Ingredients extends Component {
